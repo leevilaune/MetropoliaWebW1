@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+a{
+    color:coral;
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+    text-decoration: none;
+
+}
+img{
+    border-radius: 25px;
+    border: 5px solid black;
+}
+tr:nth-child(even){
+    background-color: azure;
+}
+td{
+    padding: 10px;
+}
+ul{
+    list-style: upper-roman;
+}
